@@ -1,3 +1,5 @@
+# Copy of Google Keep but on the ICP network
+
 ## Running the project locally
 
 If you want to test your project locally, you can use the following commands:
